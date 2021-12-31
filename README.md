@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Duncan McDonald, an avid young proffesional currently transitioning from a sales career into doing what I love, making video games.
+- 👋 Hi, I’m Duncan McDonald, an avid young professional currently transitioning from a sales career into doing what I love, making video games.
 - 👀 I’m interested in coding, literature, art, games, sports and nature of all manner. Check out my repositories to look at my work or contact me for more info!
 - 🌱 I’m currently learning C# unity development, application design, narrative design for games, level design and many other focuses within game design.
 - 📫 You can reach me at dfmcd98@gmail.com or dmcdonald@colum.edu, I am currently seeking summer internship opportunities for any of the aforementioned skills so feel free to reach out!
