@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Duncan McDonald, an avid young professional searching for a career making video games, 3D simulations and other software.
-- 👀 I’m interested in coding, literature, art, games, science and nature. Check out my repositories to look at my work or contact me for more info!
-- 🌱 I am an experienced Unity and .NET developer. I’m currently learning C/C++, JavaScript, React Native, application design, and data design for applications.
-- 🐉 Check out [The Nature of Code: Unity Remix](http://natureofcodeunity.com/index.html)
+- 👋 Hi, I’m Duncan McDonald, a software developer and engineer. I work full-time at Centric Consulting and enjoy tinkering with games in my spare time.
+- 👀 I’m interested in tech, literature, art, games, science and nature. Feel free to check out my repositories to see a bit of my work!
+- 🐉 Check out [The Nature of Code: Unity Remix](http://natureofcodeunity.com/index.html), a project I’m particularly fond of.
