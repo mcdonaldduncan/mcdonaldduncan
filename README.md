@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Duncan McDonald, a software developer and engineer. I work full-time at Centric Consulting and enjoy tinkering with games in my spare time.
+- 👋 Hi, I’m Duncan McDonald, a software developer and engineer.
 - 👀 I’m interested in tech, literature, art, games, science and nature. Feel free to check out my repositories to see a bit of my work!
 - 🐉 Check out [The Nature of Code: Unity Remix](http://natureofcodeunity.com/index.html), a project I’m particularly fond of.
